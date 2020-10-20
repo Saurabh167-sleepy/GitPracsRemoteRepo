@@ -1,1 +1,3 @@
 File1 in local repo
+
+1st change in File1 made before executing 'git commit-first commits'
