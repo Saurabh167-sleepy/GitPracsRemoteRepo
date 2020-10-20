@@ -2,4 +2,6 @@ File3 in local repo
 
 1st change in File3 made before executing 'git commit-first commits'
 
-2nd change in File2 made before executing 'git commit-second commits'
+2nd change in File3 made before executing 'git commit-second commits'
+
+3rd change in File3 made before executing 'git commit-third commits'
