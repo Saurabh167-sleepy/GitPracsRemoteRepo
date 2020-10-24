@@ -3,3 +3,5 @@ File2 in local repo
 1st change in File2 made before executing 'git commit-first commits'
 
 2nd change in File2 made before executing 'git commit-second commits'
+
+3rd change in File2 made at remote with commit message 'first remote commit'
