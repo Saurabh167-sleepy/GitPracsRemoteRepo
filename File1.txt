@@ -3,3 +3,5 @@ File1 in local repo
 1st change in File1 made before executing 'git commit-first commits'
 
 Change made at remote with message 'first remote commit'.
+
+Chnage made at remote with message 'second remote commit'.
