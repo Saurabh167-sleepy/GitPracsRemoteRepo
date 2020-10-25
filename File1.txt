@@ -5,3 +5,5 @@ File1 in local repo
 Change made at remote with message 'first remote commit'.
 
 Chnage made at remote with message 'second remote commit'.
+
+Chnage made at remote before fetch with message 'first pre-fetch remote commit'.
