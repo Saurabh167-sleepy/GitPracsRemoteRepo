@@ -7,3 +7,5 @@ File2 in local repo
 3rd change in File2 made at remote with commit message 'first remote commit'
 
 1st change in File3 made in lchild1
+
+1st change in File3 made in lgrandchild1
